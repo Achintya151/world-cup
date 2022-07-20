@@ -103,9 +103,11 @@ main {
 
 }
 
-/* .menu {
+.menu a:focus {
     background: #DD0000;
-} */
+}
+
+
 
 .menu a {
     text-decoration: none;
